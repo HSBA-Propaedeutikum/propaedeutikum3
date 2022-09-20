@@ -118,7 +118,3 @@ function handleDraw(playerChoice) {
     iconDivClassList.add("gray-glow");
     setTimeout(() => iconDivClassList.remove("gray-glow"), 300);
 }
-
-
-
-
