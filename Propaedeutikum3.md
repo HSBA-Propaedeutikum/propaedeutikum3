@@ -22,7 +22,7 @@ Hypertext-Markup-Language ist keine Programmiersprache ist keine Programmierspra
   Wir in diesem Beispiel sehen, haben einige Tags keine Endtags. Andere Tag funktionieren allerdings erst, wenn wir zusätzliche Angaben wie im Image-Tag machen.
 
 | Tag       | Beschreibung                                                                                         | Endtag      |
-|-----------|------------------------------------------------------------------------------------------------------|-------------|
+|:---------:|------------------------------------------------------------------------------------------------------|-------------|
 |`<p>`      | *Paragraph*-Tag fügt einen Paragraph ein.                                                            |optional     |
 |`<h1>`     | *Header*-Tag erzeugt eine Überschrift. Mit höherer Nummer werden kleinere Überschriften erzeugt      |obligatorisch|
 |`<br>`     | *Break*-Tag erzwingt eine neue Zeile.                                                                |nein         |
