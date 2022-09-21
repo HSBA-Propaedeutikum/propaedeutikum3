@@ -120,4 +120,4 @@ Wir haben in dem letzten Abschnitt bereits gesehen, dass wir einzelne Tags anste
     </body>
     </html>
     
-    Hier ist eine vollständige [Referenz](https://www.w3schools.com/css/css_selectors.asp) für alle Selektoren.
+Hier ist eine vollständige [Referenz](https://www.w3schools.com/css/css_selectors.asp) für alle Selektoren.
